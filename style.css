@@ -1,0 +1,31 @@
+.carousel-inner{
+    height:194px;
+    width:259px ;  
+
+}
+
+.item, img{
+   height:194px;
+   width:259px ;
+   border: 1px solid red;
+ 
+}
+#carouselExampleFade{
+    padding: 20px;
+    border: 20px;
+}
+body{
+    background-image: url("images.jpeg");
+    color: rgb(251, 252, 253);
+    font-size: 20px;
+}
+p{
+    font-family: 'Rubik Wet Paint', cursive;
+}
+header{
+    font-family: 'Rubik Glitch', cursive;
+    color: red;
+    font-size:25px;
+    text-align: center;
+
+}
